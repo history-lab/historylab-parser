@@ -96,7 +96,7 @@ Note: this will look inside your modelPath for the latest train.arff file, and u
 
 ### Evaluating entity extraction performance
 
-To evaluate performance of entity etraction without type validation, run
+To evaluate performance of entity extraction without type validation, run
 ```
 ./hlparser -e
 ```

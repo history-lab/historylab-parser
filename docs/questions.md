@@ -2,6 +2,7 @@
 - What is hosted on xyonix s3 and why? (see error #1)
 - Why is the parser tied to java8? Is it because of Stanford NLP? And, if so, what are the steps for updating if/when Stanford upgrades to java11?
 - What is `git-lfs` doing here? Is this recommended for handling the `glove.model` file? If so, can we use a small sample `glove.model` for tests?
+- Can build/install/test be untangled?
 
 ## To Do:
 

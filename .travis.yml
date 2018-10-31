@@ -3,7 +3,6 @@ sudo: false
 jdk:
   - oraclejdk8
   - oraclejdk9
-  - openjdk10
   - oraclejdk11
 addons:
   apt:
@@ -23,3 +22,6 @@ before_install:
   - unzip glove.zip -d models
   - mv models/glove.6B.300d.txt models/glove.model
 install: mvn clean install --quiet
+script:
+  - ./hlparser -p "Iran is a country. So is India."
+  - ./hlparser -p "Seattle is a nice city. Kansas is a nice state." -fm "STATE>LOC"
