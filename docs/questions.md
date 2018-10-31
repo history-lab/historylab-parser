@@ -9,9 +9,9 @@
 
 - Use javadoc
 - Unit tests for methods
-- Option to add DB credentials as CLI options instead of in config file
-- `outputPath` should be created by the program
-- Glove models should be hosted on s3 (so we don't have to grab them from Stanford each time), and cached by Travis
-- Provenance records for models, libraries, and resource files (to be kept in docs)
+- Ability to add DB credentials as CLI options to override config file defaults
+- `outputPath` should be created by the program if it doesn't exist
+- GloVe models should be hosted on s3 (so we don't have to grab them from Stanford each time). Mini models should be available for testing.
+- Need Provenance records for models, libraries, and resource files (to be kept in docs) !!! (i.e, what is from stanford? what is ours? what is generated? what is static?)
 - Documentation of overall structure
 - Documentation of options and their usage
