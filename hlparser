@@ -1,0 +1,4 @@
+#!/bin/bash
+JVM_ARGS="-Dprocess.name=hlparser -Xms4G -Xmx15G "
+HLP_DEPENDENCIES=target/dependency
+java $JVM_ARGS -cp "target/dependency/supportWN-1.0.0.jar:$HLP_DEPENDENCIES/*:target/historylab-parser-1.0.0-SNAPSHOT.jar" edu.columbia.historylab.ner.main.AdminCLI "$@"

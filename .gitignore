@@ -1,0 +1,19 @@
+# Maven/Eclipse Ignores
+target/
+.classpath
+.metadata/
+.project
+.settings/
+
+# Project ignores
+historylab-parser.log
+conf/hl.config
+models/
+output/
+
+# Ignore editor temp files
+*~
+\#*\#
+
+# OSX-related
+.DS_Store

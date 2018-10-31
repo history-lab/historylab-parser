@@ -1,0 +1,472 @@
+GOA
+types:synonym/afghanistan, entity/government/name
+metadata:wikiurl:Cabinet_of_Afghanistan
+
+Afghanistan
+types:synonym/afghanistan, entity/government/name
+metadata:wikiurl:Cabinet_of_Afghanistan
+
+GOAB
+types:synonym/antigua_and_barbuda, entity/government/name
+metadata:wikiurl:Cabinet_of_Antigua_and_Barbuda
+
+antigua and barbuda
+types:synonym/antigua_and_barbuda, entity/government/name
+metadata:wikiurl:Cabinet_of_Antigua_and_Barbuda
+
+GOB
+types:synonym/benin, entity/government/name
+metadata:wikiurl:Politics_of_Benin
+
+Benin
+types:synonym/benin, entity/government/name
+metadata:wikiurl:Politics_of_Benin
+
+GOBF
+types:synonym/burkina_faso, entity/government/name
+metadata:wikiurl:Politics_of_Burkina_Faso
+
+burkina faso
+types:synonym/burkina_faso, entity/government/name
+metadata:wikiurl:Politics_of_Burkina_Faso
+
+GOBH
+types:synonym/bosnia_and_herzegovina, entity/government/name
+metadata:wikiurl:Politics_of_Bosnia_and_Herzegovina
+
+bosnia and herzegovina
+types:synonym/bosnia_and_herzegovina, entity/government/name
+metadata:wikiurl:Politics_of_Bosnia_and_Herzegovina
+
+GOC
+types:synonym/cameroon, entity/government/name
+metadata:wikiurl:Cabinet_of_Cameroon
+
+Cameroon
+types:synonym/cameroon, entity/government/name
+metadata:wikiurl:Cabinet_of_Cameroon
+
+GOCAR
+types:synonym/central_african_republic, entity/government/name
+metadata:wikiurl:Central_African_Republic_Council_of_Ministers
+
+CENTRAL AFRICAN REPUBLIC
+types:synonym/central_african_republic, entity/government/name
+metadata:wikiurl:Central_African_Republic_Council_of_Ministers
+
+GOCD
+types:synonym/côte_d'ivoire, entity/government/name
+metadata:wikiurl:Politics_of_Ivory_Coast
+
+côte d'ivoire
+types:synonym/côte_d'ivoire, entity/government/name
+metadata:wikiurl:Politics_of_Ivory_Coast
+
+GOCI
+types:synonym/cook_islands, entity/government/name
+metadata:wikiurl:Politics_of_the_Cook_Islands
+
+COOK ISLANDS
+types:synonym/cook_islands, entity/government/name
+metadata:wikiurl:Politics_of_the_Cook_Islands
+
+GOCR
+types:synonym/czech_republic, entity/government/name
+metadata:wikiurl:Cabinet_of_the_Czech_Republic
+
+Czech Republic
+types:synonym/czech_republic, entity/government/name
+metadata:wikiurl:Cabinet_of_the_Czech_Republic
+
+GOCV
+types:synonym/cape_verde, entity/government/name
+metadata:wikiurl:Cabinet_of_Cape_Verde
+
+cape verde
+types:synonym/cape_verde, entity/government/name
+metadata:wikiurl:Cabinet_of_Cape_Verde
+
+GOD
+types:synonym/djibouti, entity/government/name
+metadata:wikiurl:Council_of_Ministers_of_Djibouti
+
+Djibouti
+types:synonym/djibouti, entity/government/name
+metadata:wikiurl:Council_of_Ministers_of_Djibouti
+
+GODR
+types:synonym/dominican_republic, entity/government/name
+metadata:wikiurl:Cabinet_of_the_Dominican_Republic
+
+dominican republic
+types:synonym/dominican_republic, entity/government/name
+metadata:wikiurl:Cabinet_of_the_Dominican_Republic
+
+GODRC
+types:synonym/democratic_republic_of_congo, entity/government/name
+metadata:wikiurl:Government_of_the_Democratic_Republic_of_the_Congo
+
+democratic republic of congo
+types:synonym/democratic_republic_of_congo, entity/government/name
+metadata:wikiurl:Government_of_the_Democratic_Republic_of_the_Congo
+
+GOE
+types:synonym/ecuador, entity/government/name
+metadata:wikiurl:Cabinet_of_Ecuador
+
+Ecuador
+types:synonym/ecuador, entity/government/name
+metadata:wikiurl:Cabinet_of_Ecuador
+
+GOEG
+types:entity/government/name, synonym/equatorial_guinea
+metadata:wikiurl:Cabinet_of_Equatorial_Guinea
+
+equatorial guinea
+types:entity/government/name, synonym/equatorial_guinea
+metadata:wikiurl:Cabinet_of_Equatorial_Guinea
+
+GOES
+types:synonym/el_salvador, entity/government/name
+metadata:wikiurl:Cabinet_of_El_Salvador
+
+El Salvador
+types:synonym/el_salvador, entity/government/name
+metadata:wikiurl:Cabinet_of_El_Salvador
+
+GOET
+types:synonym/east_timor, entity/government/name
+metadata:wikiurl:Council_of_State_of_East_Timor
+
+East Timor
+types:synonym/east_timor, entity/government/name
+metadata:wikiurl:Council_of_State_of_East_Timor
+
+GOF
+types:entity/government/name, synonym/fiji
+metadata:wikiurl:Cabinet_of_Fiji
+
+FIJI
+types:entity/government/name, synonym/fiji
+metadata:wikiurl:Cabinet_of_Fiji
+
+GOFSM
+types:synonym/federated_states_of_micronesia, entity/government/name
+metadata:wikiurl:Politics_of_the_Federated_States_of_Micronesia
+
+FEDERATED STATES OF MICRONESIA
+types:synonym/federated_states_of_micronesia, entity/government/name
+metadata:wikiurl:Politics_of_the_Federated_States_of_Micronesia
+
+GOG
+types:synonym/gabon, entity/government/name
+metadata:wikiurl:Cabinet_of_Gabon
+
+GABON
+types:synonym/gabon, entity/government/name
+metadata:wikiurl:Cabinet_of_Gabon
+
+GOGB
+types:synonym/guinea-bissau, entity/government/name
+metadata:wikiurl:Cabinet_of_Guinea-Bissau
+
+GUINEA-BISSAU
+types:synonym/guinea-bissau, entity/government/name
+metadata:wikiurl:Cabinet_of_Guinea-Bissau
+
+GOH
+types:synonym/haiti, entity/government/name
+metadata:wikiurl:Cabinet_of_Haiti
+
+HAITI
+types:synonym/haiti, entity/government/name
+metadata:wikiurl:Cabinet_of_Haiti
+
+GOI
+types:synonym/ireland, entity/government/name
+metadata:wikiurl:Government_of_Ireland
+
+IRELAND
+types:synonym/ireland, entity/government/name
+metadata:wikiurl:Government_of_Ireland
+
+GOJ
+types:synonym/jordan, entity/government/name
+metadata:wikiurl:Politics_of_Jordan
+
+JORDAN
+types:synonym/jordan, entity/government/name
+metadata:wikiurl:Politics_of_Jordan
+
+GOK
+types:synonym/kuwait, entity/government/name
+metadata:wikiurl:Politics_of_Kuwait
+
+kuwait
+types:synonym/kuwait, entity/government/name
+metadata:wikiurl:Politics_of_Kuwait
+
+GOL
+types:synonym/liberia, entity/government/name
+metadata:wikiurl:Ministers_of_the_Liberian_Government
+
+LIBERIA
+types:synonym/liberia, entity/government/name
+metadata:wikiurl:Ministers_of_the_Liberian_Government
+
+GOM
+types:entity/government/name, synonym/myanmar
+metadata:wikiurl:Cabinet_of_Burma
+
+Myanmar
+types:entity/government/name, synonym/myanmar
+metadata:wikiurl:Cabinet_of_Burma
+
+GOMI
+types:synonym/marshall_islands, entity/government/name
+metadata:wikiurl:Government_of_the_Marshall_Islands
+
+marshall islands
+types:synonym/marshall_islands, entity/government/name
+metadata:wikiurl:Government_of_the_Marshall_Islands
+
+GON
+types:synonym/norway, entity/government/name
+metadata:wikiurl:Politics_of_Norway
+
+NORWAY
+types:synonym/norway, entity/government/name
+metadata:wikiurl:Politics_of_Norway
+
+GONC
+types:synonym/northern_cyprus, entity/government/name
+metadata:wikiurl:Government_of_Northern_Cyprus
+
+NORTHERN CYPRUS
+types:synonym/northern_cyprus, entity/government/name
+metadata:wikiurl:Government_of_Northern_Cyprus
+
+GONK
+types:synonym/north_korea, entity/government/name
+metadata:wikiurl:Government_of_North_Korea
+
+north korea
+types:synonym/north_korea, entity/government/name
+metadata:wikiurl:Government_of_North_Korea
+
+GONZ
+types:synonym/new_zealand, entity/government/name
+metadata:wikiurl:New_Zealand_Cabinet
+
+New Zealand
+types:synonym/new_zealand, entity/government/name
+metadata:wikiurl:New_Zealand_Cabinet
+
+GOO
+types:synonym/oman, entity/government/name
+metadata:wikiurl:Politics_of_Oman
+
+OMAN
+types:synonym/oman, entity/government/name
+metadata:wikiurl:Politics_of_Oman
+
+GOP
+types:entity/government/name, synonym/panama
+metadata:wikiurl:Cabinet_of_Panama
+
+PANAMA
+types:entity/government/name, synonym/panama
+metadata:wikiurl:Cabinet_of_Panama
+
+GOPNG
+types:entity/government/name, synonym/papua_new_guinea
+metadata:wikiurl:Cabinet_of_Papua_New_Guinea
+
+PAPUA NEW GUINEA
+types:entity/government/name, synonym/papua_new_guinea
+metadata:wikiurl:Cabinet_of_Papua_New_Guinea
+
+GOQ
+types:synonym/qatar, entity/government/name
+metadata:wikiurl:Politics_of_Qatar
+
+QATAR
+types:synonym/qatar, entity/government/name
+metadata:wikiurl:Politics_of_Qatar
+
+GOR
+types:entity/government/name, synonym/romania
+metadata:wikiurl:Romanian_Cabinet
+
+Romania
+types:entity/government/name, synonym/romania
+metadata:wikiurl:Romanian_Cabinet
+
+GORC
+types:synonym/republic_of_congo, entity/government/name
+metadata:wikiurl:Cabinet_of_the_Republic_of_the_Congo
+
+REPUBLIC OF CONGO
+types:synonym/republic_of_congo, entity/government/name
+metadata:wikiurl:Cabinet_of_the_Republic_of_the_Congo
+
+GOS
+types:entity/government/name, synonym/spain
+metadata:wikiurl:Cabinet_of_Spain
+
+spain
+types:entity/government/name, synonym/spain
+metadata:wikiurl:Cabinet_of_Spain
+
+GOSA
+types:synonym/saudi_arabia, entity/government/name
+metadata:wikiurl:Council_of_Ministers_of_Saudi_Arabia
+
+saudi arabia
+types:synonym/saudi_arabia, entity/government/name
+metadata:wikiurl:Council_of_Ministers_of_Saudi_Arabia
+
+GOSK
+types:synonym/south_korea, entity/government/name
+metadata:wikiurl:Ministries_of_South_Korea
+
+South Korea
+types:synonym/south_korea, entity/government/name
+metadata:wikiurl:Ministries_of_South_Korea
+
+GOSKN
+types:entity/government/name, synonym/saint_kitts_and_nevis
+metadata:wikiurl:Cabinet_of_Saint_Kitts_and_Nevis
+
+Saint Kitts and_Nevis
+types:entity/government/name, synonym/saint_kitts_and_nevis
+metadata:wikiurl:Cabinet_of_Saint_Kitts_and_Nevis
+
+GOSL
+types:synonym/solomon_islands, entity/government/name
+metadata:wikiurl:Cabinet_of_the_Solomon_Islands
+
+solomon islands
+types:synonym/solomon_islands, entity/government/name
+metadata:wikiurl:Cabinet_of_the_Solomon_Islands
+
+GOSM
+types:synonym/san_marino, entity/government/name
+metadata:wikiurl:State_Congress_of_San_Marino
+
+San Marino
+types:synonym/san_marino, entity/government/name
+metadata:wikiurl:State_Congress_of_San_Marino
+
+GOSO
+types:synonym/south_ossetia, entity/government/name
+metadata:wikiurl:Government_of_South_Ossetia
+
+south ossetia
+types:synonym/south_ossetia, entity/government/name
+metadata:wikiurl:Government_of_South_Ossetia
+
+GOSS
+types:synonym/south_sudan, entity/government/name
+metadata:wikiurl:Cabinet_of_South_Sudan
+
+South Sudan
+types:synonym/south_sudan, entity/government/name
+metadata:wikiurl:Cabinet_of_South_Sudan
+
+GOSTP
+types:entity/government/name, synonym/são_tomé_and_príncipe
+metadata:wikiurl:Government_of_São_Tomé_and_Príncipe
+
+são tomé and príncipe
+types:entity/government/name, synonym/são_tomé_and_príncipe
+metadata:wikiurl:Government_of_São_Tomé_and_Príncipe
+
+GOSVG
+types:synonym/saint_vincent_and_the_grenadines, entity/government/name
+metadata:wikiurl:Cabinet_of_Saint_Vincent_and_the_Grenadines
+
+Saint Vincent and_the_Grenadines
+types:synonym/saint_vincent_and_the_grenadines, entity/government/name
+metadata:wikiurl:Cabinet_of_Saint_Vincent_and_the_Grenadines
+
+GOT
+types:synonym/turkmenistan, entity/government/name
+metadata:wikiurl:Cabinet_of_Turkmenistan
+
+TURKMENISTAN
+types:synonym/turkmenistan, entity/government/name
+metadata:wikiurl:Cabinet_of_Turkmenistan
+
+GOTT
+types:entity/government/name, synonym/trinidad_and_tobago
+metadata:wikiurl:Cabinet_of_Trinidad_and_Tobago
+
+trinidad and tobago
+types:entity/government/name, synonym/trinidad_and_tobago
+metadata:wikiurl:Cabinet_of_Trinidad_and_Tobago
+
+GOU
+types:entity/government/name, synonym/uruguay
+metadata:wikiurl:Cabinet_of_Uruguay
+
+URUGUAY
+types:entity/government/name, synonym/uruguay
+metadata:wikiurl:Cabinet_of_Uruguay
+
+GOUK
+types:entity/government/name, synonym/united_kingdom
+metadata:wikiurl:Cabinet_of_the_United_Kingdom
+
+united kingdom
+types:entity/government/name, synonym/united_kingdom
+metadata:wikiurl:Cabinet_of_the_United_Kingdom
+
+GOV
+types:entity/government/name, synonym/venezuela
+metadata:wikiurl:Government_of_Venezuela
+
+Venezuela
+types:entity/government/name, synonym/venezuela
+metadata:wikiurl:Government_of_Venezuela
+
+GOVC
+types:entity/government/name, synonym/vatican_city
+metadata:wikiurl:Governorate_of_Vatican_City_State
+
+vatican city
+types:entity/government/name, synonym/vatican_city
+metadata:wikiurl:Governorate_of_Vatican_City_State
+
+GOWS
+types:entity/government/name, synonym/western_sahara
+metadata:wikiurl:Politics_of_Western_Sahara
+
+WESTERN SAHARA
+types:entity/government/name, synonym/western_sahara
+metadata:wikiurl:Politics_of_Western_Sahara
+
+GOY
+types:entity/government/name, synonym/yemen
+metadata:wikiurl:Cabinet_of_Yemen
+
+yemen
+types:entity/government/name, synonym/yemen
+metadata:wikiurl:Cabinet_of_Yemen
+
+GOZ
+types:entity/government/name, synonym/zimbabwe
+metadata:wikiurl:Cabinet_of_Zimbabwe
+
+zimbabwe
+types:entity/government/name, synonym/zimbabwe
+metadata:wikiurl:Cabinet_of_Zimbabwe
+
+GVN
+types:synonym/united_states, entity/government/name
+metadata:wikiurl:Federal_government_of_the_United_States
+
+UNITED STATES
+types:synonym/united_states, entity/government/name
+metadata:wikiurl:Federal_government_of_the_United_States
+
