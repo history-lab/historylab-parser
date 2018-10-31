@@ -19,7 +19,6 @@ before_install:
   - sed -i -e "s/SUB_databaseName/${databaseName//\//\\/}/g" conf/hl.config
   - sed -i -e "s/SUB_databaseUsername/${databaseUsername//\//\\/}/g" conf/hl.config
   - sed -i -e "s/SUB_databasePassword/${databasePassword//\//\\/}/g" conf/hl.config
-  - mkdir models
   - curl -L -o glove.zip http://nlp.stanford.edu/data/glove.6B.zip
   - unzip glove.zip -d models
   - mv models/glove.6B.300d.txt models/glove.model
