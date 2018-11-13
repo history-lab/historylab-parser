@@ -56,10 +56,12 @@ public class ParseJob {
 
 		//Run NER and Wikification
 		System.out.println("Processing...");
-		PrintWriter pw = new PrintWriter(Config.getInstance().getOutputPath()+"/NER-"+Config.getInstance().getOffset()+"-"+Config.getInstance().getLimit()+".txt");
+		int docNum=0;
 
 		for(Entry<String, String> entry : documents.entrySet()) {
 			String documentId = entry.getKey();
+			String outFilePath=Config.getInstance().getOutputPath()+"/NER-"+documentId+"-parsed-"+Config.getInstance().getOffset()+"-"+Config.getInstance().getLimit()+"-"+docNum+".txt";
+			PrintWriter pw = new PrintWriter(outFilePath);
 			String text = entry.getValue();
 			System.out.println("documentId="+documentId+", text="+text);
 			//Trivial cases
@@ -80,8 +82,9 @@ public class ParseJob {
 				}
 			}
 			
-			System.out.println("#####PROCESSED: "+documentId);
+			System.out.println("#####PROCESSED: "+documentId+", output in: " + outFilePath);
 			pw.close();
+			docNum+=1;
 		}
 		System.out.println("Done!");
 	}
