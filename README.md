@@ -122,6 +122,18 @@ To enable verbose output, add the verbose flag ( -v )
 
 The system by default uses only the results of its NERType classification for final NERType assignments. You may, however, wish to override this to increase recall. See the --force-ner-mappings for details. This will allow you, for example, to map all mentions recognized by an underlying mention extractor like the Stanford NER system like STANFORDNER_PER to the NERType PER_Ind.
 
+Example:
+
+Here is an example which forces all STANFORDNER_PER mention types to be forced to NERType PER_IND
+
+```
+./hlparser -p "Iran is a country. Bob is a person." -fm "STANFORDNER_PER>PER_IND"
+```
+
+Note: in the output, 'Bob' is recognized as a person with the forced mapping. If you do not specify the mapping, Bob is not recognized as NERType PER_IND.
+
+Note: you will likely need to use the --view-mention-types and --view-ner-types commands in order to formulate the mapping arguments.
+
 ### Adding Ontology entries
 
 All ontology, or knowledgebase files are located in src/main/resources/ontology/mayu. You can add individual entries into your own .onto file. For example, you may wish to add specific org or people names and/or synonyms.
