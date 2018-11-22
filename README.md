@@ -47,6 +47,11 @@ mvn clean compile package
 ```
 
 Note: presumes you have maven installed and will pull down all jar and model dependencies.
+Note: You will likely need to bump your Maven memory settings, something like:
+
+```
+export MAVEN_OPTS="-Xms4G -Xmx15G"
+```
 
 ## Help
 
