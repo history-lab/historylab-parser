@@ -1,0 +1,24 @@
+@@@
+1 . [[TURKEY || 1 ]]
+2 . [[[[CNTRY || 0 ]] [[CODE || 0 ]] || 0 ]] : 489
+3 . [[SER . || 0 ]] [[NO. || 0 ]] 0089100
+4 . [[[[TAMAN || 0 ]] [[TICARET || 0 ]] [[KOLLEKTIF || 0 ]] [[STI || 0 ]] . || 0 ]] [[[[[[YILMAZ || 0 ]] [[YAMAN || 0 ]] || 0 ]] [[VE || 0 ]] [[OGULLARI || 0 ]] || 0 ]]
+5 . [[[[[[P || 0 ]] [[O B || 0 ]] || 0 ]] : NA || 0 ]] ; [[LAMARTIN [[CAD || 8 ]] || 0 ]] . 57 / [[A || 0 ]] , [[TAKSIM || 0 ]]
+6 . [[ISTANBUL || 2 ]] , [[TURKEY || 1 ]]
+7 . [[ESTABL || 0 ]] : 1960
+8 . [[EMPL || 0 ]] : 20
+9 . [[SIZE || 0 ]] : [[( [[20 - [[X || 0 ]] || 0 ]] ) MEDIUM || 0 ]]
+10 . [[REPUTATION || 0 ]] : ( [[22 - [[X || 0 ]] || 0 ]] ) GOOD
+11 . [[[[SELLS || 0 ]] [[TROUGHOUT || 0 ]] [[TURKEY || 1 ]] || 0 ]]
+12 . [[RPT || 0 ]] [[[[DATE || 2 ]] : 06 || 0 ]] / 77
+13.37141 / [[53 IMP || 0 ]] . [[WHOLESALE AUTOMOBILE PARTS || 0 ]]
+14 . [[CONTACT || 0 ]] : [[[[[[YILMAZ || 0 ]] [[YAMAN || 0 ]] || 0 ]] [[TITLE || 0 ]] || 0 ]] : PARTNER
+15 . [[CABLE || 0 ]] : [[YAMAN || 0 ]] - [[ISTANBUL || 2 ]]
+16 . [[TELEX || 0 ]] : NA
+17 . [[TEL || 0 ]] . 454511 , 444486
+18 . [[FINANCIAL REFS || 0 ]] : [[[[YAPI || 0 ]] [[VE || 0 ]] [[KREDI || 0 ]] [[BANKASI || 0 ]] || 0 ]] , [[BEYOGLU || 0 ]] , [[ISTANBUL || 2 ]] ; [[[[TURK || 0 ]] [[TICARET || 0 ]] [[BANKASI || 0 ]] || 0 ]] , [[[[TARLABASI || 0 ]] , [[ISTANBUL || 2 ]] || 0 ]] : [[[[AKBANK || 0 ]] , [[TALIMHANE || 0 ]] || 0 ]] , [[ISTANBUL || 2 ]] , [[TURKIYE || 0 ]] IS [[BANKASI || 0 ]] , [[TAKSIM || 0 ]] , [[ISTANBUL || 2 ]] .
+19 . [[TRADE REFS || 0 ]] : [[SEALED [[POWER || 7 ]] [[CORP. || 0 ]] || 0 ]] , [[2001 [[SANFORD || 2 ]] , [[MUSKEGAN || 0 ]] || 0 ]] , [[[[MICH || 0 ]] .49443 || 0 ]] ; [[[[GEON || 0 ]] [[INTER || 0 ]] [[CORP. || 0 ]] || 0 ]] , [[[[111 CROSSWAYS || 0 ]] [[[[PARK || 2 ]] [[WEST || 0 ]] || 0 ]] || 0 ]] , [[[[[[P || 0 ]] [[O B || 0 ]] || 0 ]] 1000 || 0 ]] , [[WOODBURN || 2 ]] , [[[[NY || 3 ]] 11797 || 0 ]] ; [[[[[[TREO || 0 ]] [[AUTOMOTIVE || 0 ]] [[EXPORT || 0 ]] [[CO || 3 ]] || 0 ]] , [[INC. || 0 ]] || 0 ]] , [[140 [[KING || 8 ]] ST.N [[BROOKLYN || 2 ]] || 0 ]] , [[[[NY || 3 ]] 11231 || 0 ]] . .
+20 . [[FOREIGN FIRMS || 0 ]] REPRESNTED : NA
+21 . [[MEDIUM [[SIZE || 0 ]] || 0 ]] LONG ESTABLISHED , [[FAMILY || 0 ]] OWNED [[CONCERN || 0 ]] IS [[[[IMPORTER || 8 ]] AND WHOLESALER || 0 ]] OF [[[[AUTOMOTIVE || 0 ]] SPARE PARTS || 0 ]] . [[[[OFFICE || 0 ]] AND [[WAREHOUSE FACILITIES || 0 ]] || 0 ]] [[LOCATED IN [[TAKSIM || 0 ]] || 0 ]] , [[AN [[ISTANBUL || 2 ]] [[AUTOMOTIVE || 0 ]] PARTS || 0 ]] TRADING [[CENTER || 0 ]] . [[REGISTERED CAPITAL || 0 ]] [[REPORTEDLY TL500 ,000 || 0 ]] ( [[TL 17.50 || 0 ]] - $ 1 ) AND [[1976 SALES || 0 ]] APPROX $ 650,000 . [[FIRM || 0 ]] IS MANAGED BY [[[[YILMAZ || 0 ]] [[YAMAN || 0 ]] || 0 ]] WHO IS CONSIDERED [[[[A || 0 ]] CAPABLE [[BUSINESSMAN || 8 ]] || 0 ]] . [[BANKS || 2 ]] GIVE [[[[FIRM || 0 ]] GOOD CREDIT || 0 ]] [[RATING || 0 ]] . RECOMMENDED AS [[[[A || 0 ]] TRACE [[CONTACT || 0 ]] || 0 ]] .
+22 . PREPARED BY [[[[[[E || 1 ]]. || 0 ]] [[OMER || 2 ]] || 0 ]] : APPROVED BY [[[[R || 0 ]] [[W || 0 ]] [[BECKHAM || 0 ]] || 0 ]] ; AT : [[[[U || 0 ]] [[S || 0 ]] CONSULATE [[GENERAL || 8 ]] || 0 ]] , [[ISTANBUL || 2 ]] .
+[[OGDEN || 2 ]]

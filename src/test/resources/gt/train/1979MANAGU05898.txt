@@ -32,7 +32,7 @@
 32        UNITED STATES         GPE.NATION
 33         CHILE                         GPE.SPECIAL 
 34        BELIZE                GPE.SPECIAL 
-
+35	AUSTRALIA		GPE.SPECIAL
 
 
 
@@ -61,7 +61,7 @@
 [[MR. & MRS. DAVISON [[(CANADIAN) || 11]], ||26]] 
 [[MR. & MRS. JANNAS [[(CHILEAN) || 33]], || 27]]
 [[MR. & MRS. MIRA [[(COLUMBIAN) || 9]], || 28]]
-[[MR. JONES [[(AUSTRALIAN) || ]], || 29]] 
+[[MR. JONES [[(AUSTRALIAN) || 35 ]], || 29]] 
 [[MR. ALEMINA [[(BELIZEAN) || 34]],|| 30]] 
 [[MR. & MRS. TRUJILLO AND THEIR THREE CHILDREN [[ (COLOMBIAN) || 9]] ||  31]]
 
