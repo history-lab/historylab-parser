@@ -1,4 +1,5 @@
-﻿1. WEST GERMANY         GPE.NATION
+﻿
+1. WEST GERMANY         GPE.NATION
 2. LOS DELEGATION         ORG.GOV 
 3. KARL KNOKE                PER.IND 
 4. B.H. OXMAN                PER.IND 

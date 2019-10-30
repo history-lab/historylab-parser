@@ -1,4 +1,5 @@
-﻿1. COUNSELOR LO                PER.IND
+﻿
+1. COUNSELOR LO                PER.IND
 2. EMBASSY OF KOREA IN MEXICO                ORG.GOV 
 3. KOREA         GPE.NATION
 4. JAPAN                GPE.NATION

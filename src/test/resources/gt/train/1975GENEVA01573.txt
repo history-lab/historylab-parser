@@ -1,4 +1,5 @@
-﻿1. SOVIET UNION                                 GPE.NATION
+﻿
+1. SOVIET UNION                                 GPE.NATION
 2. US MISSION TO GENEVA                         ORG.GOV
 3. UNITED STATES                 GPE.NATION
 4. UNITED STATES DEPARTMENT OF STATE        ORG.GOV  
