@@ -1,4 +1,5 @@
 ﻿
+
 1. US EMBASSY IN OSLO                                         ORG.GOV 
 2. NORTH ATLANTIC COUNCIL                                ORG.MED
 3. NORWAY                                                        GPE.NATION
@@ -23,6 +24,7 @@
 
 
 @@@
+
 
 
 

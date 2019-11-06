@@ -1,4 +1,5 @@
-﻿1. WILLIAM H. GLEYSTEEN JR.                PER.IND
+﻿
+1. WILLIAM H. GLEYSTEEN JR.                PER.IND
 2. SOUTH KOREAN FOREIGN MINISTER         PER.IND 
 3. NORTH KOREA                 GPE.SPECIAL 
 4. UNITED STATES                 GPE.SPECIAL 
@@ -12,6 +13,7 @@
 
 
 @@@
+
 
 
 1. (C) ENTIRE TEXT.

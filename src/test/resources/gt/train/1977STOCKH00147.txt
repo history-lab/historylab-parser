@@ -1,4 +1,6 @@
-﻿1. TRUMME         PER.IND        
+﻿
+
+1. TRUMME         PER.IND        
 2. SWEDEN        GPE.SPECIAL
 3. MALCOLM K. WAGLAND        PER.IND
 4. MELKRON INTERNATIONAL SWEDEN AB                ORG.COM        
@@ -11,6 +13,7 @@
 
 
 @@@
+
 
 
 1. 401/001/P 0055

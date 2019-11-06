@@ -1,4 +1,6 @@
-﻿1. ROMANIA                        GPE.NATION
+﻿
+
+1. ROMANIA                        GPE.NATION
 2. CZECHOSLOVAKIA                 GPE.SPECIAL 
 3. NICOLAS PICORIUS                PER.IND
 4. ROMANIA                        GPE.SPECIAL 
@@ -10,6 +12,7 @@
 
 
 @@@
+
 
 
 

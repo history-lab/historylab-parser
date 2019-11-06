@@ -1,4 +1,5 @@
 ﻿
+
 1. PAN AMERICAN WORLD AIRWAYS                                ORG.COM
 2. AUSTRALIA                                                        GPE.SPECIAL 
 3. OREGON                                                        GPE.SPECIAL
@@ -15,6 +16,7 @@
 
 
 @@@
+
 
 
 1. EFFECTIVE DECEMBER 1, [[PAN AM || 1]] PLANS MAKE FOLLOWING CHANGES IN SERVICES TO [[AUSTRALIA || 2]]:

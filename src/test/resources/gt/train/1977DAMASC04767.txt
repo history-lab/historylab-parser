@@ -1,4 +1,6 @@
-﻿1. SYRIA         GPE.SPECIAL 
+﻿
+
+1. SYRIA         GPE.SPECIAL 
 2. MICHAEL DAVIS                 PER.IND
 3. HAMA POULTRY INSTITUTION                ORG.GOV         
 4. GENERAL ORGANIZATION OF POULTRY        ORG.GOV 
@@ -9,6 +11,7 @@
 
 
 @@@
+
 
 
 1. 502 /[[DAMASCUS || 1]] / T-89

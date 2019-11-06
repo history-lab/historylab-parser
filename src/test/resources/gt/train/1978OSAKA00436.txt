@@ -1,4 +1,5 @@
-﻿1. LIBERAL DEMOCRATIC PARTY                ORG.NGO
+﻿
+1. LIBERAL DEMOCRATIC PARTY                ORG.NGO
 2. MINORU UEDA                                PER.IND
 3. JAPAN                                         GPE.SPECIAL 
 4. JAPANESE COMMUNIST PARTY                ORG.NGO 

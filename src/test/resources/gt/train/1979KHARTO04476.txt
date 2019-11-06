@@ -1,4 +1,5 @@
-﻿1. GAAFAR NIMEIRI                PER.IND
+﻿
+1. GAAFAR NIMEIRI                PER.IND
 2. SADIQ AL-MAHDI                PER.IND
 3. SUDAN                 GPE.NATION
 4. SUDAN                 GPE.SPECIAL 
@@ -36,6 +37,7 @@
 
 
 @@@
+
 
 
 1. C - ENTIRE TEXT

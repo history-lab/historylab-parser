@@ -1,4 +1,6 @@
-﻿1. SULEIMAN FRANGIEH        PER.IND
+﻿
+
+1. SULEIMAN FRANGIEH        PER.IND
 2. HAFEZ AL-ASSAD                PER.IND
 3. SYRIA                GPE.SPECIAL 
 4. PALESTINIAN                GPE.SPECIAL 
@@ -67,6 +69,7 @@
 
 
 @@@ 
+
 
 
 

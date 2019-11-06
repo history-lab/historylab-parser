@@ -1,4 +1,5 @@
-﻿1. INTERNATIONAL CONFEDERATION OF FREE TRADE UNIONS                ORG.MED 
+﻿
+1. INTERNATIONAL CONFEDERATION OF FREE TRADE UNIONS                ORG.MED 
 2. OTTO KIRSTEN                                                        PER.IND 
 3. UNITED STATES                                                        GPE.SPECIAL 
 4. GEORGE MEANY                                                        PER.IND
@@ -34,6 +35,7 @@
 
 
 @@@
+
 
 
 

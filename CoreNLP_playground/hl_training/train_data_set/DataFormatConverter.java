@@ -5,6 +5,8 @@ import java.io.*;
 import java.nio.file.*;
 import java.lang.*;
 
+// TODO: cover this case [[[[GENERAL MILL ||2]] SUPERINTENDENT JACK CLARK ([[BRITISH||1]])  || 10]] 
+
 class DataFormatConverter {
 
 	final static String srcDirPath = "C:\\dev\\historylab-parser\\src\\test\\resources\\gt\\train\\";

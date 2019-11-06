@@ -1,4 +1,5 @@
-﻿1. GREECE                                         GPE.NATION
+﻿
+1. GREECE                                         GPE.NATION
 2. GREECE                                        GPE.SPECIAL
 3. ITALY                                                 GPE.NATION
 4. GIULIO ANDREOTTI                                 PER.IND
@@ -23,6 +24,7 @@
 
 
 @@@
+
 
 
 1. AFTER SHARP DEBATE, [[THE GREEK PARLIAMENT || 1]] RATIFIED BY VOICE VOTE THE AGREEMENT SIGNED DURING THE MAY 1977 VISIT OF [[[[ITALIAN || 3]] PRIME MINISTER ANDREOTTI || 4]] TO [[GREECE || 2]] (REF B) WHICH DELIMITS [[THE CONTINENTAL SHELF IN THE AREA OF THE SOUTHERN [[IONIAN SEA ||18 ]]  ||6 ]]  BETWEEN [[GREECE ||2]] AND [[ITALY ||8]]. IN ARGUING FOR RATIFICATION, [[GOG ||1]] SPOKESMAN UNDERLINED
