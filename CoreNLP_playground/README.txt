@@ -13,7 +13,7 @@ FAQ: https://nlp.stanford.edu/software/crf-faq.shtml
 
 4/ Train and serialize a model:
 	java -cp <PathTo_javanlp-core.jar> edu.stanford.nlp.ie.crf.CRFClassifier -prop <PathToPropertyFile>
-	E.g. java -cp C:\dev\CoreNLP\javanlp-core.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop hl.prop
+	E.g. java -Xmx12288M -cp C:\dev\CoreNLP\javanlp-core.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop hl.prop
 
 5/ Test the serialized model:
 	java -cp <PathTo_javanlp-core.jar> edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier <PathToSerializedModel> -testFile <PathToTestFile>

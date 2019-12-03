@@ -1,0 +1,1 @@
+java -Xms4096m -Xmx15360m -cp C:\dev\historylab-parser\target\dependency\supportWN-1.0.0.jar;C:\dev\historylab-parser\target\dependency\*;C:\dev\historylab-parser\target\historylab-parser-1.0.0-SNAPSHOT.jar edu.columbia.historylab.ner.main.AdminCLI  -p "Iran is a country. So is India."

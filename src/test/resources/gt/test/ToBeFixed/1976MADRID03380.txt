@@ -1,4 +1,5 @@
-﻿1. SPAIN                         GPE.SPECIAL 
+﻿
+1. SPAIN                         GPE.SPECIAL 
 2. COMMUNIST PARTY OF SPAIN                 ORG.NGO 
 3. DEMOCRATIC JUNTA OF SPAIN                 ORG.NGO 
 4. SWC                 ORG.NGO

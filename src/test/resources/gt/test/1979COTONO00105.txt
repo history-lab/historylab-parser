@@ -1,4 +1,5 @@
-﻿1. OMAR BONGO         PER.IND
+﻿
+1. OMAR BONGO         PER.IND
 2. MATHIEU KÉRÉKOU                PER.IND
 3. BOB DENARD        PER.IND
 4. MOROCCO                 GPE.NATION

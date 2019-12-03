@@ -1,4 +1,5 @@
-﻿1. YAMAZAKI                PER.IND 
+﻿
+1. YAMAZAKI                PER.IND 
 2. UNITED STATES         GPE.NATION
 3. JAPAN                 GPE.NATION
 4. EMBASSY OF THE UNITED STATES, TOKYO         ORG.GOV  

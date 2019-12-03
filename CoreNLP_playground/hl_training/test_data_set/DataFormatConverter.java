@@ -5,6 +5,8 @@ import java.io.*;
 import java.nio.file.*;
 import java.lang.*;
 
+// TODO: cover this case [[[[GENERAL MILL ||2]] SUPERINTENDENT JACK CLARK ([[BRITISH||1]])  || 10]] 
+
 class DataFormatConverter {
 
 	final static String srcDirPath = "C:\\dev\\historylab-parser\\src\\test\\resources\\gt\\test\\";
@@ -50,16 +52,16 @@ class DataFormatConverter {
 			HashMap<String,String> entityMap = new HashMap<String,String>();
 
 			//Scan through the classes at the top of this document
+			//TODO: missing the first line for some reason
 			while (sc.hasNextLine()) {
-
 				String currentLine = sc.nextLine();
-				if (currentLine.length() < 3 || currentLine.substring(0,3).equals("@@@")) break;
+				if (currentLine.length() >= 3 && currentLine.substring(0,3).equals("@@@")) break;
 				String[] spaceSplits = currentLine.split(" +");
+				if (spaceSplits.length == 0) continue;
 				String entityLocalId = spaceSplits[0].replace(".","");
 				if (!isNumeric(entityLocalId)) continue;
 
 				entityMap.put(entityLocalId, spaceSplits[spaceSplits.length-1]);
-
 			}
 
 			//Concatenate all other lines into 1 String
@@ -68,9 +70,11 @@ class DataFormatConverter {
 
 				String currentLine = sc.nextLine();
 				String[] spaceSplits = currentLine.substring(0,currentLine.length()).split(" +");
-				if (spaceSplits.length == 0 || !isNumeric(spaceSplits[0].replace(".",""))) continue;
+				if (spaceSplits.length == 0) continue;
 
-				StringBuilder currentSB = new StringBuilder(currentLine.substring(spaceSplits[0].length(),currentLine.length())
+				int startIndex = 0;
+				if (isNumeric(spaceSplits[0].replace(".",""))) startIndex = spaceSplits[0].length();
+				StringBuilder currentSB = new StringBuilder(currentLine.substring(startIndex,currentLine.length())
 					.replace(".", " .").replace(",", " ,").replace(";", " ;").replace("?", " ?")
 					.replace("!", " !").replace("'s", " 's").replace("-", " -").replace("--", " --"));
 				currentSB.append(" ");
@@ -150,8 +154,6 @@ class DataFormatConverter {
 				// System.out.println(currentSB.toString());
 				sb.append(currentSB.toString().replace(" ","").replace("  ","").replace("   ","")
 												.replace(" \n","").replace("	\n",""));
-
-				break;
 
 			}
 
